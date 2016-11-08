@@ -1,0 +1,9 @@
+.nav, .contenido{
+	float: left;
+}
+.ocultarParrafo{
+	display: none;
+}
+.temas{
+	color: blue;
+}
